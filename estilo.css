@@ -4,3 +4,7 @@ body {
 a{
     text-decoration: underline;
 }
+strong{
+    font-weight: bold;
+}
+
